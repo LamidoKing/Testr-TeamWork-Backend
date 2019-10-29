@@ -1,0 +1,15 @@
+{
+  "name": "TeamWork-Backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:LamidoKing/TeamWork-Backend.git",
+  "author": "lamido <kinglamido@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
