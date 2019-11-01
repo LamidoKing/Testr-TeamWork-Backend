@@ -1,5 +1,16 @@
 {
     "editor.formatOnSave": true,
     "prettier.eslintIntegration": false,
-    "standard.enable": false
+    "standard.enable": false,
+    "sqltools.connections": [
+        {
+            "database": "teamwork",
+            "dialect": "PostgreSQL",
+            "name": "TeamWork",
+            "password": "shadowghost",
+            "port": 5432,
+            "server": "localhost",
+            "username": "me"
+        }
+    ]
 }
